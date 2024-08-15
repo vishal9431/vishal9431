@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/011/868/785/original/animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media-video.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/011/868/785/original/animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media-video.jpg)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
